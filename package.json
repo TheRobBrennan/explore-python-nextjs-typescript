@@ -1,0 +1,19 @@
+{
+  "name": "technical-screen-package-sorting",
+  "version": "0.0.0",
+  "description": "This project explores my approach and solution for a technical screen - creating solutions in both TypeScript and Python",
+  "scripts": {
+    "start": "echo \"Error: no start specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/explore-python-nextjs-typescript.git"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/explore-python-nextjs-typescript/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/explore-python-nextjs-typescript#readme"
+}
